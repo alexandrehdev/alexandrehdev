@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
  
  
- 
-<div>
-   <p>Probably right now I'm like this ----->   <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif" width="400" align="center"/>  
-</div>
- 
 
  
 
