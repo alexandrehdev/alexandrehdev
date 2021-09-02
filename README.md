@@ -22,6 +22,11 @@ Here are some ideas to get you started:                     <img src="https://im
 
 
 
+<!-- link para estudar -->
+<!-- https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow -->
+
+
+
 
  
  
