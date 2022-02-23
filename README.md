@@ -16,7 +16,7 @@ Here are some ideas to get you started:                     <img src="https://im
  My Stats
 </h1>
 
-![AllexandreDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllexandreDev&theme=great-gatsby&show_icons=true) 
+![alexandrehdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllexandreDev&theme=great-gatsby&show_icons=true) 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HallyssonDev) -->
 
