@@ -5,7 +5,7 @@
  
  
  
-Let me introduce myself:   <img src="https://image.flaticon.com/icons/png/512/2463/2463510.png" align="right" width="205">                                                  
+Let me introduce myself:   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-developer-web-developer-soft-fill-soft-fill-juicy-fish-2.png" align="right" width="205">                                                  
 
 - 🔭 I’m currently working on something great                           
 - 📫 Email me: hallyssonrdev@gmail.com
@@ -13,7 +13,7 @@ Let me introduce myself:   <img src="https://image.flaticon.com/icons/png/512/24
 
 
 
- <h3>Back End<h3>
+ <h3>Tech<h3>
  <img src="https://img.icons8.com/color/344/javascript--v1.png" height="80"/>
  <img src="https://img.icons8.com/color/344/html-5--v1.png" height="80"/>
  <img src="https://img.icons8.com/color/344/css3.png" height="80"/>
