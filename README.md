@@ -31,7 +31,7 @@ Let me introduce myself:   <img src="https://img.icons8.com/external-soft-fill-j
 
 ![alexandrehdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrehdev&theme=great-gatsby&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrehdev)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrehdev) -->
 
 
 
