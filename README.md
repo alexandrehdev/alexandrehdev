@@ -8,7 +8,6 @@
 Let me introduce myself:   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-developer-web-developer-soft-fill-soft-fill-juicy-fish-2.png" align="right" width="205">                                                  
 
 - 🔭 I’m currently working on something great                           
-- 📫 Email me: hallyssonrdev@gmail.com
 
 
 
