@@ -28,6 +28,8 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alexandrehdev.alexandrehdev&left_color=darkcyan&right_color=cadetblue"  />
 </div>
-
+<div align="center">
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=hallyssonribeiro-5&count=1" />
+ </div>
 
 
