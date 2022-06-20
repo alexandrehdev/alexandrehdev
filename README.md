@@ -8,6 +8,9 @@
 </div>
 
 ###
+<div align="center">
+  <h1>🔧 TECH 🔧</h1>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
