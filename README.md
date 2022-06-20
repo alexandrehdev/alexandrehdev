@@ -7,6 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&custom_title=Favorite Languages&username=alexandrehdev" height="140" alt="languages graph"  />
 </div>
 
+***
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="52" alt="html5 logo"  />
@@ -24,8 +25,8 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=hallyssonribeiro-5&count=1" height="140"/>
 </div>
-
+ -->
 
