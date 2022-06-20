@@ -25,8 +25,8 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
  <img src="https://spotify-recently-played-readme.vercel.app/api?user=hallyssonribeiro-5&count=1" height="140"/>
-</div>
+</div> -->
 
 
