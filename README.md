@@ -9,7 +9,7 @@
 
 ###
 <div align="center">
-  <h1>🔧 TECH 🔧</h1>
+  <h1>🔧 Tech 🔧</h1>
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 ###
 <div align="center">
-  <h1>🎵 SPOTIFY 🎵</h1>
+  <h1>🎵 Spotify 🎵</h1>
 </div>
 
 <div align="center">
