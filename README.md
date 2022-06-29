@@ -1,4 +1,4 @@
-<h1 align="center">TRYIN' TO BECOME A BETTER VERSION OF MYSELF</h1>
+<h1 align="center">CODING</h1>
 
 ###
 
