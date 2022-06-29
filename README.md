@@ -1,4 +1,4 @@
-<h1 align="center">CODING💻</h1>
+<h1 align="center">Coding 💻</h1>
 
 ###
 
@@ -11,14 +11,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexandrehdev&theme=gruvbox">
+  <img src="https://github-profile-trophy.vercel.app/?username=alexandrehdev&theme=gruvbox" height="180">
 </div>
 
 <h1 align="center">Status 💻</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=Alex's Activities&username=alexandrehdev" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&custom_title=Favorite Languages&username=alexandrehdev" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=Alex's Activities&username=alexandrehdev" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&custom_title=Favorite Languages&username=alexandrehdev" height="120" alt="languages graph"  />
 </div>
 
 <div align ="center">
