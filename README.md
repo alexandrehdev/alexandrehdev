@@ -1,4 +1,4 @@
-<h1 align="center">Coding 💻</h1>
+<h2 align="center">Coding 💻</h2>
 
 ###
 
@@ -10,11 +10,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alexandrehdev.alexandrehdev&left_color=darkcyan&right_color=gruvbox"  />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alexandrehdev&theme=gruvbox" height="180">
-</div>
+</div> -->
 
-<h1 align="center">Status 💻</h1>
+<h2 align="center">Status 📈</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=Alex's Activities&username=alexandrehdev" height="120" alt="stats graph"  />
@@ -26,7 +26,7 @@
 </div>
 
 ***
-<h1 align="center">Tech 💻</h1>
+<h2 align="center">Tech 💻</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="52" alt="html5 logo"  />
