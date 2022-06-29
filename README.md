@@ -1,4 +1,4 @@
-<h2 align="center">Coding 💻</h2>
+<h2 align="center">Hello 💻</h2>
 
 ###
 
@@ -6,12 +6,8 @@
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexandrehdev.alexandrehdev&left_color=darkcyan&right_color=gruvbox"  />
-</div>
-
 <!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexandrehdev&theme=gruvbox" height="180">
+  <img src="https://github-profile-trophy.vercel.app/?username=alexandrehdev&theme=gruvbox" height="140">
 </div> -->
 
 <h2 align="center">Status 📈</h2>
