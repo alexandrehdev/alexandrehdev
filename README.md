@@ -39,7 +39,7 @@
 </div>
 
 ***
-<h2 align="center">Tools 🔧</h2>
+<h2 align="center">Editors 🔧</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" width="52" alt="atom logo"  />
