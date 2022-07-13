@@ -20,7 +20,7 @@
 
 
 
-<h2 align="center">Programming Languages</h2>
+<h2 align="center">Tools</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="52" alt="html5 logo"  />
