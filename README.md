@@ -1,31 +1,26 @@
-<!-- # How is it going 🙋 -->
 <div align="center">
-  <h1>How is it going 🙋</h1>
- </div>
-
-***
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
+  <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="1500px" height="600px"/>
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexandrehdev&theme=gruvbox" height="140">
-</div> -->
 
-## Status 📈
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=Alex's Activities&username=alexandrehdev" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&custom_title=Favorite Languages&username=alexandrehdev" height="120" alt="languages graph"  />
-</div>
+<h2 align="center">Status</h2>
+
 
 <div align ="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrehdev&theme=gruvbox">
 </div>
 
-***
-## Tech 💻
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?     hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=Status&username=alexandrehdev" height="120" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&custom_title=Favorite Languages&username=alexandrehdev" height="120" alt="languages graph"  />
+</div>
+
+
+
+
+<h2 align="center">Programming Languages</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="52" alt="html5 logo"  />
@@ -41,8 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="60" width="52" alt="composer logo"  />
 </div>
 
-***
-## Editors 🔧
+<h2 align="center">Code Editors</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" width="52" alt="atom logo"  />
