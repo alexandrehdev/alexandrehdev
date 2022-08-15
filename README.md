@@ -10,7 +10,7 @@
   
 <div align="center">
  <br />
- <h2 align="left">About me </h2>
+ <h2 align="left">About me 👀</h2>
  
  <div align="left">
    <ul>
@@ -23,16 +23,14 @@
    <h2 align="left">Tech 💻</h2>
    
    <div align="left"> 
-     <img src="https://www.svgrepo.com/show/197982/html.svg" height="50"/>
-     <img src="https://www.svgrepo.com/show/134149/css.svg" height="50"/>
-     <img src="https://www.svgrepo.com/show/355081/js.svg" height="50"/>
-     <img src="https://www.svgrepo.com/show/349474/php.svg" height="50"/>
-  </div>
-  <div align="left">
-     <img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" height="50"/>
-     <img src="https://www.svgrepo.com/show/331370/docker.svg" height="50"/>
-     <img src="https://www.svgrepo.com/show/373848/mysql.svg" height="50"/>
-     <img src="https://www.svgrepo.com/show/373521/composer.svg" height="50"/>
+     <img src="https://www.svgrepo.com/show/197982/html.svg" height="50"/> 
+     <img src="https://www.svgrepo.com/show/134149/css.svg" height="50"/> 
+     <img src="https://www.svgrepo.com/show/355081/js.svg" height="50"/> 
+     <img src="https://www.svgrepo.com/show/349474/php.svg" height="50"/>   
+     <img src="https://www.svgrepo.com/show/303379/laravel-logo.svg" height="50"/> 
+     <img src="https://www.svgrepo.com/show/331370/docker.svg" height="50"/> 
+     <img src="https://www.svgrepo.com/show/373848/mysql.svg" height="50"/> 
+     <img src="https://www.svgrepo.com/show/373521/composer.svg" height="50"/> 
   </div>
 </div>
   
