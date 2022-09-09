@@ -22,7 +22,7 @@
    
    <h2 align="left">Skills 💻</h2>
    
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,git,docker,linux,laravel,mysql)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,git,docker,linux,laravel,mysql,vim)](https://skillicons.dev)
    
 </div>
   
